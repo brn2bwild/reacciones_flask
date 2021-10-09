@@ -1,0 +1,4 @@
+reconocimiento_emociones/data/
+reconocimiento_emociones/modeloEigenFaces.xml
+reconocimiento_emociones/modeloFisherFaces.xml
+reconocimiento_emociones/modeloLBPH.xml
